@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/inotflying/inotflying/main/assets/blob.svg">
 <br>
-<br>
 <a href="https://vk.com/inotflying">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inotflying/inotflying/main/assets/dark/vk.svg">
